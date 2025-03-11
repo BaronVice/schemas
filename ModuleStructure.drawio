@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Страница — 1" id="Y4Gvs2_gyDiESTWAmNXA">
-    <mxGraphModel dx="1122" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="767" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,6 +217,23 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1040.33" as="sourcePoint" />
             <mxPoint x="499.68000000000006" y="1040.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size:13.999999999999998pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot; id=&quot;docs-internal-guid-6ba7dddf-7fff-b150-93b5-1654cd898aa5&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:624px;height:632px;&quot;&gt;&lt;img src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXebzK6th2Nv0CqmyHR0AHCA3T8hCYG5O2QtWP_wLJf4S5N-g3u9oGL0ctwYFo8PSCYqOpkBfOmZ86M13HNUizD-i5rp82GBpUnObxZEh-p0316q0HxkM_35aQpe3Ri240klFpq-oc-_mcbSx2Onm6GVtH4KbUWisRoXlvNX8A?key=eTLHwvgaXD9bttryIlu51Q&quot; width=&quot;624&quot; height=&quot;632&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;" link="&lt;span style=&quot;font-size:13.999999999999998pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot; id=&quot;docs-internal-guid-6ba7dddf-7fff-b150-93b5-1654cd898aa5&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:624px;height:632px;&quot;&gt;&lt;img src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXebzK6th2Nv0CqmyHR0AHCA3T8hCYG5O2QtWP_wLJf4S5N-g3u9oGL0ctwYFo8PSCYqOpkBfOmZ86M13HNUizD-i5rp82GBpUnObxZEh-p0316q0HxkM_35aQpe3Ri240klFpq-oc-_mcbSx2Onm6GVtH4KbUWisRoXlvNX8A?key=eTLHwvgaXD9bttryIlu51Q&quot; width=&quot;624&quot; height=&quot;632&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;" id="BlyAIJI0uhPi3X165Wbc-76">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1110" y="1169" width="560" height="660" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BlyAIJI0uhPi3X165Wbc-77" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF7993;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="1600" as="sourcePoint" />
+            <mxPoint x="1270" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlyAIJI0uhPi3X165Wbc-79" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF7993;exitX=-0.01;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1524.3999999999999" y="1413.8600000000001" as="sourcePoint" />
+            <mxPoint x="1270" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
