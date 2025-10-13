@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Страница — 1" id="IB0LTJJu5A-tRw9VyMWV">
-    <mxGraphModel dx="1561" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,9 +338,9 @@
         <mxCell id="DocyRzEFIkWGXWOO_wie-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DocyRzEFIkWGXWOO_wie-123" target="DocyRzEFIkWGXWOO_wie-139">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="423.55" />
-              <mxPoint x="1090" y="503.55" />
-              <mxPoint x="1045" y="503.55" />
+              <mxPoint x="1090" y="418" />
+              <mxPoint x="1090" y="504" />
+              <mxPoint x="1045" y="504" />
             </Array>
           </mxGeometry>
         </mxCell>
