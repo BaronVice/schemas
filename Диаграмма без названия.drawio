@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Страница — 1" id="IB0LTJJu5A-tRw9VyMWV">
-    <mxGraphModel dx="1348" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_JLij78zeixKJYq6KvC4-76" value="Queue of object detection tasks" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="511.05" width="90" height="60" as="geometry" />
+          <mxGeometry x="495" y="508.05" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_JLij78zeixKJYq6KvC4-78" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ObjectDetectionTaskProducer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="511.05" width="200" height="40" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="470" y="665.31" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DocyRzEFIkWGXWOO_wie-81" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ObjectDetectionTaskManager&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="665.31" width="210" height="30" as="geometry" />
+          <mxGeometry x="470" y="668.31" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DocyRzEFIkWGXWOO_wie-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DocyRzEFIkWGXWOO_wie-82" target="DocyRzEFIkWGXWOO_wie-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -256,12 +256,12 @@
         <mxCell id="DocyRzEFIkWGXWOO_wie-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DocyRzEFIkWGXWOO_wie-84" target="DocyRzEFIkWGXWOO_wie-91" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="612.55" />
+              <mxPoint x="390" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DocyRzEFIkWGXWOO_wie-84" value="Produce task strategy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="582.55" width="90" height="60" as="geometry" />
+          <mxGeometry x="495" y="584.55" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DocyRzEFIkWGXWOO_wie-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DocyRzEFIkWGXWOO_wie-89" target="DocyRzEFIkWGXWOO_wie-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -487,7 +487,7 @@
         <mxCell id="oR2h0stODLpKl4Zd1XLD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR2h0stODLpKl4Zd1XLD-24" target="DocyRzEFIkWGXWOO_wie-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oR2h0stODLpKl4Zd1XLD-24" value="&lt;div&gt;Detected&lt;/div&gt;&lt;div&gt;Objects&lt;/div&gt;&lt;div&gt;Manager&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oR2h0stODLpKl4Zd1XLD-24" value="&lt;div&gt;Detected&lt;/div&gt;&lt;div&gt;ObjectsTo&lt;/div&gt;&lt;div&gt;HandleQueue&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="403.55" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
