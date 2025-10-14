@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Страница — 1" id="IB0LTJJu5A-tRw9VyMWV">
-    <mxGraphModel dx="1139" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,8 +244,14 @@
         <mxCell id="DocyRzEFIkWGXWOO_wie-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DocyRzEFIkWGXWOO_wie-82" target="DocyRzEFIkWGXWOO_wie-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oR2h0stODLpKl4Zd1XLD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DocyRzEFIkWGXWOO_wie-82" target="DocyRzEFIkWGXWOO_wie-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oR2h0stODLpKl4Zd1XLD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="705.31" as="sourcePoint" />
+            <mxPoint x="712.9299999999998" y="125.93000000000006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="126" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DocyRzEFIkWGXWOO_wie-82" value="Distribute results to connections" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="705.31" width="90" height="60" as="geometry" />
